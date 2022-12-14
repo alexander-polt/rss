@@ -1,2 +1,2 @@
 # rsschool-cv
-link  на  cv.md
+[cv.md](alexander_polt/rsschool-cv/gh-pages/readme/md)
