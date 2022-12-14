@@ -1,2 +1,2 @@
 # rsschool-cv
-[cv.md](https://alexander-polt/rsschool-cv/gh-pages/cv.md)
+[cv.md](https://alexander-polt.github.io/rsschool-cv/gh-pages/cv.md)
